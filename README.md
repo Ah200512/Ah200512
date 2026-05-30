@@ -1,17 +1,20 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:06b6d4&height=200&section=header&text=Adithya%20Harish&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20Developer%20%7C%20CS%20Engineer%20%7C%20Builder&descAlignY=60&descSize=18" />
+<!-- Mercedes-AMG Petronas Inspired Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2BE,100:000000&height=250&section=header&text=Adithya%20Harish&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mercedes-AMG%20Petronas%20Inspired%20GenAI%20Developer&descAlignY=58&descSize=20" />
 
-<!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=600&lines=Building+the+Future+with+Generative+AI+%F0%9F%A4%96;LLMs+%7C+LangChain+%7C+AI+Agents;Full-Stack+Web+Development;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00D2BE&center=true&vCenter=true&width=700&lines=%F0%9F%8F%81+Racing+Towards+AI+Innovation;Mercedes+F1+Inspired+Developer;LLMs+%7C+AI+Agents+%7C+LangChain;Building+The+Future+One+Model+At+A+Time" />
 
-<br/>
+<br>
+
+<img src="https://img.shields.io/badge/Mercedes--AMG%20Petronas-F1%20Inspired-00D2BE?style=for-the-badge&logo=mercedes&logoColor=white" />
+<img src="https://img.shields.io/badge/GenAI-Developer-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Formula%201-Tech%20Enthusiast-E10600?style=for-the-badge&logo=formula1&logoColor=white" />
+
+<br/><br/>
 
 <!-- Profile views & Social badges -->
-<img src="https://komarev.com/ghpvc/?username=Ah200512&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Ah200512&style=for-the-badge&color=00D2BE&label=PROFILE+VIEWS" />
 <a href="https://www.linkedin.com/in/adityaharish05"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.github.com/Ah200512"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:adithyaaudi2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -22,16 +25,26 @@
 
 ---
 
-## 🧠 About Me
+# 🏎️ About Me
+### Mercedes-Inspired Engineering Mindset
 
 ```python
 class AdithyaHarish:
     def __init__(self):
         self.name       = "Adithya Harish"
+        self.team       = "Mercedes-AMG Petronas Mindset 🏎️"
         self.role       = "Generative AI Developer & CS Engineering Student"
         self.location   = "India 🇮🇳"
         self.email      = "adithyaaudi2005@gmail.com"
         self.portfolio  = "adithyaharishportfoliowebsite.netlify.app"
+
+    def race_strategy(self):
+        return [
+            "🏎️ Speed      → Fast Iteration & Rapid Prototyping",
+            "🧠 Intelligence → LLM Applications & AI Agents",
+            "⚙️  Precision  → Clean Architecture & Code Quality",
+            "🚀 Innovation  → Pushing AI Product Boundaries",
+        ]
 
     def current_focus(self):
         return [
@@ -68,7 +81,7 @@ class AdithyaHarish:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-00D2BE?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
@@ -114,10 +127,10 @@ class AdithyaHarish:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ah200512&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=06b6d4&bg_color=0d1117&hide_border=true&border_radius=10&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ah200512&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=06b6d4&bg_color=0d1117&hide_border=true&border_radius=10&layout=compact" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ah200512&show_icons=true&count_private=true&title_color=00D2BE&text_color=ffffff&icon_color=00D2BE&bg_color=0d1117&hide_border=true&border_radius=10&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ah200512&langs_count=8&title_color=00D2BE&text_color=ffffff&icon_color=00D2BE&bg_color=0d1117&hide_border=true&border_radius=10&layout=compact" />
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ah200512&stroke=ffffff&background=0d1117&ring=0891b2&fire=06b6d4&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=888888&hide_border=true&border_radius=10" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ah200512&stroke=ffffff&background=0d1117&ring=00D2BE&fire=00D2BE&currStreakNum=ffffff&currStreakLabel=00D2BE&sideNums=ffffff&sideLabels=ffffff&dates=888888&hide_border=true&border_radius=10" />
 
 </div>
 
@@ -137,7 +150,7 @@ class AdithyaHarish:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ah200512&bg_color=0d1117&color=0891b2&line=06b6d4&point=ffffff&area=true&hide_border=true&border_radius=10" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ah200512&bg_color=0d1117&color=00D2BE&line=00D2BE&point=ffffff&area=true&hide_border=true&border_radius=10" />
 
 </div>
 
@@ -148,7 +161,7 @@ class AdithyaHarish:
 ### 💬 Let's Build Something Amazing Together!
 
 <a href="mailto:adithyaaudi2005@gmail.com">
-  <img src="https://img.shields.io/badge/Reach%20Out-Email%20Me-0891b2?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reach%20Out-Email%20Me-00D2BE?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/adityaharish05">
@@ -161,6 +174,6 @@ class AdithyaHarish:
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:0891b2&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00D2BE&height=120&section=footer&animation=fadeIn" />
 
 </div>
